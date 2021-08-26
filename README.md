@@ -1,2 +1,2 @@
 # LMS-Automation
-> Retriving the score card details from LMS portal.
+> Retrieving the score card details from LMS portal.
